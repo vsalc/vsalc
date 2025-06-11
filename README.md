@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hey there! I'm Victor 👋
+I'm an aspiring **penetration tester** currently working toward my **[Practical Junior Penetration Tester (PJPT)](https://tcm-sec.com)** certification from TCM Security, Inc. I’m passionate about cybersecurity and love exploring real-world offensive techniques and researching new exploits.
+On the side, I enjoy building things with **Vue.js** — it’s my go-to for web development when I'm not buried in packet captures or shell exploits.
+Whether it’s breaking into systems (ethically!) or crafting intuitive user interfaces, I’m all about learning, building, and growing.
 
 <!--
 **vsalc/vsalc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
