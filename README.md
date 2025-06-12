@@ -19,9 +19,4 @@ Check out my current project: [**WebPaddock**](https://github.com/vsalc/summer-2
 - **Tools**: Nmap, Burp Suite, Wireshark, Metasploit, Nikto
 - **Techniques**: Reconnaissance, Enumeration, Web Exploitation, Active Directory
 
-### 🎯 Currently Learning
-- Buffer overflows & memory corruption basics
-- Vue routing and advanced component patterns
-- Secure coding practices and API security
-
 ## Let's Connect!
