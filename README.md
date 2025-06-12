@@ -7,8 +7,21 @@ Check out my current project: [**WebPaddock**](https://github.com/vsalc/summer-2
 
 **WebPaddock** is a Vue.js web application that transforms raw NASCAR data into interactive, beginner-friendly visualizations. It tracks real-time or historical changes in driver positions lap-by-lap, highlights pit stop strategies, and includes weather conditions when available. The goal is to make the strategic depth of racing more accessible to newcomers — because it’s definitely not *just* turning left.
 
-## Skills & Tech Stack
+## 🛠️ Skills & Tech Stack
+### 🧑‍💻 Development
+- **Languages**: JavaScript, Python, HTML, CSS
+- **Frontend**: Vue.js, Vuetify, Pinia, Axios
+- **Backend**: Node.js (basic), Flask (learning)
+- **Tools**: Git, GitHub, VS Code, Vite, Postman
 
-## Certifications & Training
+### 🔐 Cybersecurity
+- **Certifications**: PJPT (in progress) – TCM Security
+- **Tools**: Nmap, Burp Suite, Wireshark, Metasploit, Nikto
+- **Techniques**: Reconnaissance, Enumeration, Web Exploitation, Active Directory
+
+### 🎯 Currently Learning
+- Buffer overflows & memory corruption basics
+- Vue routing and advanced component patterns
+- Secure coding practices and API security
 
 ## Let's Connect!
