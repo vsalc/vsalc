@@ -20,4 +20,4 @@ Check out my current project: [**WebPaddock**](https://github.com/vsalc/summer-2
 - **Techniques**: Reconnaissance, Enumeration, Web Exploitation, Active Directory
 
 ## 🤝 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat&logoColor=white)](https://www.linkedin.com/in/yourusername)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat&logoColor=white)](https://www.linkedin.com/in/vrsalcedo)
