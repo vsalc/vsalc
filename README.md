@@ -3,7 +3,7 @@ I'm an aspiring **cybersecurity engineer** currently working toward my **[Practi
 
 ## 🚧 Current Project
 
-Check out my current project: [**WebPaddock**](https://github.com/vsalc/summer-2025).
+Check out my current project: [**WebPaddock**](https://github.com/vsalc/web-paddock).
 
 **WebPaddock** is a Vue.js web application that transforms raw Formula 1 data into interactive, beginner-friendly visualizations. It tracks real-time or historical changes in driver positions lap-by-lap, highlights pit stop strategies, and includes weather conditions when available. The goal is to make the strategic depth of racing more accessible to newcomers — because it’s definitely not who has the fastest car.
 
