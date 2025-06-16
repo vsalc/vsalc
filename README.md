@@ -5,7 +5,7 @@ I'm an aspiring **cybersecurity engineer** currently working toward my **[Practi
 
 Check out my current project: [**VueSalc**](https://github.com/vsalc/vuesalc).
 
-**VueSalc** is a Vue.js-powered portfolio that showcases my journey, ambitions, and accomplishments through elegant UI, intuitive UX, and component-driven storytelling.”.
+**VueSalc** is a Vue.js-powered portfolio that showcases my journey, ambitions, and accomplishments through elegant UI, intuitive UX, and component-driven storytelling.
 
 ## 🛠️ Skills & Tech Stack
 ### 🧑‍💻 Development
