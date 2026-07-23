@@ -1,5 +1,7 @@
 # Victor Salcedo
 
+> "Just keep swimming!"
+
 - AI enthusiast
 - Security-focused — Founder of [Willow Tree Security LLC](https://willowtreesecurity.com)
 - Tufts University
