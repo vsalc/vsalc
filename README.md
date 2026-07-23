@@ -1,6 +1,6 @@
 # Victor Salcedo
 
-> "Just keep swimming!"
+> "Just keep swimming!" — Dory, *Finding Nemo*
 
 - AI enthusiast
 - Security-focused — Founder of [Willow Tree Security](https://willowtreesecurity.com)
