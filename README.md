@@ -3,7 +3,7 @@
 > "Just keep swimming!"
 
 - AI enthusiast
-- Security-focused — Founder of [Willow Tree Security LLC](https://willowtreesecurity.com)
+- Security-focused — Founder of [Willow Tree Security](https://willowtreesecurity.com)
 - Tufts University
 
 ## Projects
