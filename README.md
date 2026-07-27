@@ -9,7 +9,6 @@
 ## Projects
 
 - [Double Down](https://double-down-seven.vercel.app) — Blackjack trainer to practice card counting and track performance.
-- [CourseCue](https://coursecue.vercel.app) — Turns syllabi into semester deadline calendars with local PDF/OCR and AI.
 - [Pi-hole Setup Guide](https://github.com/vsalc/pihole-setup-guide) — Network-wide ad blocking on a Raspberry Pi.
 
 ---
