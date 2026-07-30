@@ -12,4 +12,4 @@
 
 ---
 
-[Website](https://vsalc.com) · [GitHub](https://github.com/vsalc) · [LinkedIn](https://www.linkedin.com/in/vsalc/) · [X](https://x.com/vsalc0)
+[Website](https://vsalc.com) · [LinkedIn](https://www.linkedin.com/in/vsalc/) · [X](https://x.com/vsalc0)
