@@ -2,16 +2,12 @@
 
 > "Just keep swimming!" — Dory, *Finding Nemo*
 
-I run Willow Tree Security, a consultancy that helps growing companies get ready
-for SOC 2 and build security programs that hold up. I've worked both sides of the
-coin: keeping systems running in IT support and testing them as a penetration tester.
+I've worked both sides of the coin: keeping systems running in IT support and testing them as a penetration tester.
 
 ---
 
-**Work:** Founder, [Willow Tree Security](https://willowtreesecurity.com)<br>
 **Work:** IT Support Specialist<br>
 **Edu:** M.S. Cybersecurity, Tufts University (in progress)<br>
-**Edu:** B.S. Computer Science, Tufts University<br>
 **Cert:** PJPT · Security+ · CySA+ (in progress)
 
 ---
